@@ -7,7 +7,12 @@ the capability of QRNNs to to provide well calibrated
 estimates of the retrieval *a posteriori* distribution and
 provide statistically consistent non-Gaussian error estimates.
 
-## Data access
+## Dependencies
+
+To run the notebooks, recent versions of [typhon](https://github.com/atmtools/typhon)
+and Keras are required [Keras](https://github.com/keras-team/keras).
+
+## Getting the data
 
 Running the scripts requires access to the training, validation
 and test data used for the QRNN training. Due to size of the
