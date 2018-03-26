@@ -7,4 +7,17 @@ the capability of QRNNs to to provide well calibrated
 estimates of the retrieval *a posteriori* distribution and
 provide statistically consistent non-Gaussian error estimates.
 
+## Data access
+
+Running the scripts requires access to the training, validation
+and test data used for the QRNN training. Due to size of the
+data, these are stored on an external server. The `get_data.sh`
+script is provided to take care of the data download and the
+setup of the repository structure.
+
+```
+chmod +x ./get_data.sh
+./get_data.sh
+```
+
 ![Error Fit](plots/error_fit.png)
