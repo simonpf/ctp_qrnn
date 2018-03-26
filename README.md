@@ -7,6 +7,8 @@ the capability of QRNNs to to provide well calibrated
 estimates of the retrieval *a posteriori* distribution and
 provide statistically consistent non-Gaussian error estimates.
 
+[![DOI](https://zenodo.org/badge/126737601.svg)](https://zenodo.org/badge/latestdoi/126737601)
+
 ## Dependencies
 
 To run the notebooks, recent versions of [typhon](https://github.com/atmtools/typhon)
