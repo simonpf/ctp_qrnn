@@ -10,7 +10,7 @@ provide statistically consistent non-Gaussian error estimates.
 ## Dependencies
 
 To run the notebooks, recent versions of [typhon](https://github.com/atmtools/typhon)
-and Keras are required [Keras](https://github.com/keras-team/keras).
+and [Keras](https://github.com/keras-team/keras) are required.
 
 ## Getting the data
 
