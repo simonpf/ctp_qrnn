@@ -7,4 +7,4 @@ the capability of QRNNs to to provide well calibrated
 estimates of the retrieval *a posteriori* distribution and
 provide statistically consistent non-Gaussian error estimates.
 
-
+![Error Fit](plots/error_fit.png)
