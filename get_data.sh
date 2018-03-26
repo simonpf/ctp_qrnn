@@ -8,5 +8,6 @@ wget http://spfrnd.de/data/ctp_qrnn/y_val.npy
 wget http://spfrnd.de/data/ctp_qrnn/x_test.npy
 wget http://spfrnd.de/data/ctp_qrnn/y_test.npy
 wget http://spfrnd.de/data/ctp_qrnn/cloud_types_test.npy
+wget http://spfrnd.de/data/ctp_qrnn/y_test_pred.npy
 cd ..
 mkdir -p models
